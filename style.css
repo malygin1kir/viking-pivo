@@ -1,0 +1,73 @@
+
+body {
+	background-color: #013a3c;
+	color: #fff685;
+	font-size: 16px;
+	font-weight:normal;
+	font-family:'times new roman', 'Courier new';
+}
+h1 {
+	color: gold;
+}
+h2 {
+	color: MistyRose;
+}
+h3 {
+	color: MistyRose;
+}
+h5 {
+	color: Maroon;
+}
+
+
+.avatar {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	box-shadow: 6px 6px 20px black;
+}
+.bookmark {
+	box-shadow: 1px 1px 5px black;
+}
+.intfack p {
+	color: #BC8F8F	;
+	margin: 0;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: line-through;
+	text-transform: lowercase;
+	/*letter-spacing:*/ 
+	/*word-spacing:*/
+}
+.intfack {
+	color: #BC8F8F	;
+	margin: 0;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: line-through;
+	text-transform: lowercase;
+	/*letter-spacing:*/ 
+	/*word-spacing:*/
+}
+.vse {
+	max-width: 850px;
+	margin: auto;
+}
+.social {
+	background: #013a3c	;
+	padding: 20px 50px;
+	border: 10px solid #FA8072;
+	margin: 30px;
+}
+.zag {
+	padding:0px 25px
+}
+.box {
+	padding:0px 50px
+}
+.ss {
+	background: LightSlateGray;
+	padding:1px 0px 1px 0px;
+	border: 2px solid #FA8072;
+	margin: 30px 640px 30px 50px
+}	
